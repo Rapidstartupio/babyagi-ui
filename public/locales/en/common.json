@@ -2,7 +2,7 @@
   "AGENT": "Agent",
   "DARK_MODE": "Dark mode",
   "DELETE": "Delete",
-  "DESCRIPTION_BABYAGI": "This BabyAGI can search and scrape the web. However, since this is an experimental feature, it may not always work and may be slow. ",
+  "DESCRIPTION_BABYAGI": "This RapidAGI can search and scrape the web. However, since this is an experimental feature, it may not always work and may be slow. ",
   "FIRST_TASK": "First Task",
   "FOR_MORE_DETAILS": "For more details...",
   "LIGHT_MODE": "Light mode",

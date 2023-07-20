@@ -40,24 +40,24 @@ export const BABYBEEAGI_ITERATIONS = [
 export const AGENT = [
   {
     id: 'babydeeragi',
-    name: 'BabyDeerAGI',
+    name: 'CompanionAGI',
     icon: '🦌',
     message: '🤖/🔎+📄/🧑‍💻',
     badge: 'NEW',
   },
   {
     id: 'babycatagi',
-    name: 'BabyCatAGI',
+    name: 'StreamAGI',
     icon: '🐱',
     message: '🤖/🔎+📄',
   },
   {
     id: 'babybeeagi',
-    name: 'BabyBeeAGI',
+    name: 'FastAGI',
     icon: '🐝',
     message: '🤖/🔎/📄',
   },
-  { id: 'babyagi', name: 'BabyAGI', icon: '👶', message: '🤖' },
+  { id: 'babyagi', name: 'GeneratorAGI', icon: '👶', message: '🤖' },
 ];
 
 export const THEME = [

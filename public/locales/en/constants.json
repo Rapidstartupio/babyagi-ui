@@ -18,6 +18,6 @@
   "ERROR_CREATING_TASKS": "Error creating tasks",
   "EXAMPLES": "Examples",
   "EXAMPLE_OBJECTIVE_1": "Write a weather report for the next 3 days in Paris",
-  "EXAMPLE_OBJECTIVE_2": "Research the gpt-3.5-turbo-0613 model",
+  "EXAMPLE_OBJECTIVE_2": "Research the best performing stocks in the NASDAQ this year so far",
   "EXAMPLE_OBJECTIVE_3": "Report the latest news in the user’s favorite category"
 }
