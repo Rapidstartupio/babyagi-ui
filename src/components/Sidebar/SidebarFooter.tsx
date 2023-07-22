@@ -4,7 +4,7 @@ import {
   DiscordLogoIcon,
   GitHubLogoIcon,
   TwitterLogoIcon,
-  FacebookLogoIcon,
+  FaceBookLogoIcon,
   LinkedinLogoIcon,
   QuestionMarkCircledIcon,
 } from '@radix-ui/react-icons';
@@ -33,7 +33,7 @@ export const SidebarFooter: FC = () => {
         target="_blank"
         className="hover:opacity-50"
       >
-        <FacebookLogoIcon />
+        <FaceBookLogoIcon />
       </Link>
       <Link
         href="https://linkedin.com/in/nathandshearer"
