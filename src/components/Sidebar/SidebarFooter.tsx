@@ -6,6 +6,7 @@ import {
   TwitterLogoIcon,
   FacebookLogoIcon,
   LinkedinLogoIcon,
+  QuestionMarkCircledIcon,
 } from '@radix-ui/react-icons';
 import { FC } from 'react';
 
