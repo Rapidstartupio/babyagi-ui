@@ -17,7 +17,7 @@
   "USER_INPUT_PLACEHOLDER": "Enter your answer here...",
   "ERROR_CREATING_TASKS": "Error creating tasks",
   "EXAMPLES": "Examples",
-  "EXAMPLE_OBJECTIVE_1": "Write a weather report for the next 3 days in Paris",
+  "EXAMPLE_OBJECTIVE_1": "Write a weather report for the next 3 days in Austin, Texas",
   "EXAMPLE_OBJECTIVE_2": "Research the best performing stocks in the NASDAQ this year so far",
   "EXAMPLE_OBJECTIVE_3": "Report the latest news in the user’s favorite category"
 }

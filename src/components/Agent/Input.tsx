@@ -134,7 +134,7 @@ export const Input: FC<InputProps> = ({
             className="m-0 w-full resize-none border-0 bg-transparent p-0 pl-2 pr-12 text-black outline-none focus:ring-0 focus-visible:ring-0 dark:bg-transparent dark:text-white dark:placeholder-neutral-600 md:pl-0"
             placeholder={
               agent !== 'babyagi'
-                ? 'Input your objective here... (e.g. Write a weather report for Tokyo today)'
+                ? 'Input your objective here... (e.g. Create a healthy meal plan for a family of 4)'
                 : 'Input your objective here... (e.g. Solve world hunger)'
             }
             value={value}
@@ -170,17 +170,10 @@ export const Input: FC<InputProps> = ({
           rel="noreferrer"
           className="underline"
         >
-          BabyAGI UI
+          RapidAGI UI
         </a>
         {' is designed to make it easier to run and develop with '}
-        <a
-          href="https://github.com/yoheinakajima/babyagi"
-          target="_blank"
-          rel="noreferrer"
-          className="underline"
-        >
-          babyagi
-        </a>
+          rapidagi
         {' in a web app, like a ChatGPT.'}
       </div>
     </div>

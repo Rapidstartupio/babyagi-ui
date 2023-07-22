@@ -50,7 +50,7 @@ export const Select: FC<Props> = ({ label, item, items, onChange }) => {
       <label className="text-xs text-neutral-400 dark:text-neutral-400">
         {translate('DESCRIPTION_BABYAGI')} {translate('FOR_MORE_DETAILS')}
         <Link
-          href={'https://twitter.com/yoheinakajima/status/1657448504112091136'}
+          href={'https://rapidagent.ai'}
           passHref
           target="_blank"
           rel="noopener noreferrer"
